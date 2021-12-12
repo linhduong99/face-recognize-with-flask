@@ -1,0 +1,6 @@
+opencv-contrib-python
+tensorflow
+keras
+Flask
+jsonpickle
+scipy

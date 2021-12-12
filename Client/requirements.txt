@@ -1,0 +1,5 @@
+opencv-contrib-python
+requests
+numpy
+mtcnn
+tensorflow
